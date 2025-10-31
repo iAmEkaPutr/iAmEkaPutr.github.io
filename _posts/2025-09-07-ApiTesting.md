@@ -13,7 +13,7 @@ image: /assets/img/api-testing.png
 
 API Testing adalah proses pengujian yang dilakukan langsung pada **Application Programming Interface (API)** untuk memastikan bahwa API tersebut berfungsi sesuai dengan spesifikasi.
 
-Pengujian ini berfokus pada validasi apakah API dapat menangani berbagai skenario dengan benar, serta menghasilkan *output* (respon) yang benar ketika menerima *input* (request) tertentu.
+Pengujian ini berfokus pada validasi, apakah API dapat menangani berbagai skenario dengan benar, serta menghasilkan *output* (respon) yang benar ketika menerima *input* (request) tertentu.
 
 > **Tujuan Utama:** Memastikan fungsionalitas, keandalan, performa, dan keamanan dari API yang menjadi tulang punggung (backend) sebuah aplikasi.
 
